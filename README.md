@@ -105,13 +105,11 @@ python main.py
  
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### Sample Input Image
-![Sample Input](screenshots/sample_input.png)
-
-### Extracted Text Output
-![Extracted Output](screenshots/extracted_output.png)
+| Sample Input Image | Extracted Text Output |
+| --- | --- |
+| ![Sample Input](screenshots/sample_input.png) | ![Extracted Output](screenshots/extracted_output.png) |
  
 ---
 
