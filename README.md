@@ -28,9 +28,9 @@ OCR-Text-Extractor/
 ├── output/                         ← Auto-generated on run
 │   └── sample image_extracted.txt
 │
-├── main.py                         ← Main Python script
-├── requirements.txt                ← Required libraries
-└── README.md                       ← This file
+├── main.py                        
+├── requirements.txt              
+└── README.md                    
 ```
  
 ---
@@ -105,15 +105,13 @@ python main.py
  
 ---
 
-## Screenshots
- 
+## 📸 Screenshots
+
 ### Sample Input Image
-> Add your sample input image screenshot here
-> Example: `![Sample Input](screenshots/sample_input.png)`
- 
+![Sample Input](screenshots/sample_input.png)
+
 ### Extracted Text Output
-> Add your extracted text output screenshot here
-> Example: `![Extracted Output](screenshots/extracted_output.png)`
+![Extracted Output](screenshots/extracted_output.png)
  
 ---
 
