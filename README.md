@@ -1,5 +1,11 @@
 # Assignment 4(B) – OCR Text Extractor
 
+## 🔗 Links
+
+- **Live Demo:** [https://ocr-text-extractor-03.onrender.com](https://ocr-text-extractor-03.onrender.com)
+
+- **DTT Workspace:** [https://dtt-workspace03.vercel.app/](https://dtt-workspace03.vercel.app/)
+
 ---
 
 ## Project Overview
